@@ -1,0 +1,13 @@
+td {
+  color: rgb(233, 14, 185);
+  font-style: italic;
+  border-color: brown;
+  background-color: aqua;
+  line-gap-override: 5;
+  line-height-step: 5%;
+  letter-spacing: normal;
+  border-radius: 0cqh;
+  border-right: 0cap;
+  box-sizing: content-box;
+  border-style: ridge;
+}
